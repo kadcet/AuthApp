@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp", "AuthApp\AuthApp.csproj", "{45B02474-A1D1-4BF0-A40B-7C7DD302476A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp.WebAPI", "AuthApp\AuthApp.WebAPI.csproj", "{45B02474-A1D1-4BF0-A40B-7C7DD302476A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp.Model", "AuthApp.Model\AuthApp.Model.csproj", "{FAC0813A-E82D-4FF9-BA4A-E35FE79D90B8}"
 EndProject
